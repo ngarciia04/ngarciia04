@@ -6,8 +6,6 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/ngarciia04" target="blank"><img src="https://img.shields.io/twitter/follow/ngarciia04?logo=twitter&style=for-the-badge" alt="ngarciia04" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/**
