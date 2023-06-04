@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">A passionate python developer</h3>
 
+<p align="center">
+  <img src="https://i.imgur.com/Z6feBrO.png" alt="Descripción de la imagen" width="800">
+</p>
+
+
 <p align="left"> <a href="https://twitter.com/ngarciia04" target="blank"><img src="https://img.shields.io/twitter/follow/ngarciia04?logo=twitter&style=for-the-badge" alt="ngarciia04" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
