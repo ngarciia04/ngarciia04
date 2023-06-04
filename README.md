@@ -1,5 +1,4 @@
 - 👋 Hi!, I’m @ngarciia04
-- 👀 I’m interested in check new community projects.
 - 🌱 I’m currently working on python.
 - 📫 You can reach me on ig: @nachoooo.04
 
