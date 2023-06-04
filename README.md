@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">A passionate python developer</h3>
-
+<p align="center"> <a href="https://twitter.com/ngarciia04" target="blank"><img src="https://img.shields.io/twitter/follow/ngarciia04?logo=twitter&style=for-the-badge" alt="ngarciia04" /></a> </p>
 <p align="center">
   <img src="https://i.imgur.com/Z6feBrO.png" alt="Descripción de la imagen" width="800">
 </p>
 
-<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/kxrhwtdg.json"
-    trigger="hover"
-    colors="primary:#4be1ec,secondary:#cb5eee"
-    style="width:250px;height:250px">
-</lord-icon>
+
 <p align="left"> <a href="https://twitter.com/ngarciia04" target="blank"><img src="https://img.shields.io/twitter/follow/ngarciia04?logo=twitter&style=for-the-badge" alt="ngarciia04" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
