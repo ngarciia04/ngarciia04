@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/1ytMCRK.jpeg" alt="Descripción de la imagen" width="800">
 </p>
 
-<img src="https://i.imgur.com/RVCWyNI.gif" alt="GIF" width=50>
 <ul>
   <li>🌱 I’m currently learning Python</li>
   <li>📫 How to reach me https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/</li>
