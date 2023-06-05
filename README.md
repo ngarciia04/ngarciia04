@@ -6,7 +6,7 @@
   <li>🌱 I’m currently learning Python</li>
   <li>📫 How to reach me https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/</li>
 </ul>
-<img src="https://i.imgur.com/RVCWyNI.gif" alt="GIF" width=50>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ngarciia04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngarciia04" height="30" width="40" /></a>
@@ -19,3 +19,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ngarciia04"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ngarciia04" /></a></p><br><br>
+<img src="https://i.imgur.com/RVCWyNI.gif" alt="GIF" width=50>
