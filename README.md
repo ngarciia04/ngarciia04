@@ -6,7 +6,7 @@
 </p>
 
 <img src="https://i.imgur.com/RVCWyNI.gif" alt="GIF" width=50>
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me **https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/**
 
