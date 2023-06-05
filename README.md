@@ -1,6 +1,6 @@
 <h1 align="center">Nacho García Esteso</h1>
 <p align="center">
-  <img src="" alt="Descripción de la imagen" width="800">
+  <img src="https://imgur.com/a/FgYURnx" alt="Descripción de la imagen" width="800">
 </p>
 
 <img src="https://i.imgur.com/RVCWyNI.gif" alt="GIF" width=50>
