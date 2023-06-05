@@ -1,5 +1,4 @@
 <h1 align="center">Nacho García Esteso</h1>
-<h3 align="center">A passionate python developer</h3>
 <p align="center">
   <img src="https://i.imgur.com/Z6feBrO.png" alt="Descripción de la imagen" width="800">
 </p>
