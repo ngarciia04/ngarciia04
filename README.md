@@ -1,4 +1,3 @@
-<h1 align="center">Nacho García Esteso</h1>
 <p align="center">
   <img src="https://i.imgur.com/1ytMCRK.jpeg" alt="Descripción de la imagen" width="800">
 </p>
