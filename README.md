@@ -3,7 +3,6 @@
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning Python</li>
   <li>📫 How to reach me https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/</li>
 </ul>
 
