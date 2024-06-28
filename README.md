@@ -3,7 +3,6 @@
 </p>
 
 <ul>
-  <li>📫 How to reach me https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso-806488253/</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
