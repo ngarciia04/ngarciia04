@@ -13,6 +13,9 @@
   <a href="https://stackoverflow.com/users/21252862" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21252862" height="30" width="40" />
   </a>
+  <a href="mailto:nachogegc@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="gmail" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
