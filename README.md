@@ -60,16 +60,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngarciia04&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngarciia04&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" height="160" />
-</div>
-
----
-
 ### 🤝 Contacto
 
 <p>
