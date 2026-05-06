@@ -5,55 +5,72 @@
 <br>
 
 <div align="center">
-  <h1>Hey, I'm Nacho García 👋</h1>
-  <p>Front-end developer · Crafting clean interfaces & thoughtful user experiences</p>
+  <h1>Hola, soy Nacho García 👋</h1>
+  <p>Desarrollador front-end · Creo interfaces limpias y experiencias de usuario cuidadas</p>
 </div>
 
 <br>
 
 ---
 
-### 🧑‍💻 About me
+### 🧑‍💻 Sobre mí
 
-- 🌍 Based in **La Rioja, Spain**
-- 🎯 Focused on **HTML, CSS, JavaScript** and **Laravel**
-- 🌱 Always learning — currently deepening my **front-end** skills
-- 💬 Ask me about anything web-related
-- ⚡ I care about **semantic markup**, **accessibility** and **performance**
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" title="WordPress" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40" title="Windows Server" />
-</p>
+- 🌍 Vivo en **La Rioja, España**
+- 🎯 Especializado en **HTML, CSS, JavaScript** y **Laravel**
+- 🌱 Siempre aprendiendo — actualmente profundizando en **front-end**
+- 💬 Pregúntame sobre cualquier cosa relacionada con la web
+- ⚡ Me importan el **marcado semántico**, la **accesibilidad** y el **rendimiento**
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Stack tecnológico
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="48" height="48" />
+      <br><sub><b>WordPress</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="48" height="48" />
+      <br><sub><b>Windows Server</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngarciia04&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngarciia04&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngarciia04&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngarciia04&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" height="160" />
 </div>
 
 ---
 
-### 🤝 Connect
+### 🤝 Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/nacho-garc%C3%ADa-esteso/" target="_blank">
@@ -67,14 +84,14 @@
 
 ---
 
-### ☕ Support
+### ☕ Apóyame
 
 <a href="https://ko-fi.com/ngarciia04" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="Buy me a coffee" />
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="Invítame a un café" />
 </a>
 
 <br><br>
 
 <div align="center">
-  <sub>Thanks for stopping by ✦</sub>
+  <sub>Gracias por pasarte por aquí ✦</sub>
 </div>
