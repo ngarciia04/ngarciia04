@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h1>Hola, soy Nacho García 👋</h1>
-  <p>Desarrollador front-end · Creo interfaces limpias y experiencias de usuario cuidadas</p>
+  <h1>Nacho García 👋</h1>
+  <p>Haciendo front-end ahora · Interfaces limpias de vez en cuando :) </p>
 </div>
 
 <br>
@@ -16,10 +16,8 @@
 ### 🧑‍💻 Sobre mí
 
 - 🌍 Vivo en **La Rioja, España**
-- 🎯 Especializado en **HTML, CSS, JavaScript** y **Laravel**
-- 🌱 Siempre aprendiendo — actualmente profundizando en **front-end**
-- 💬 Pregúntame sobre cualquier cosa relacionada con la web
-- ⚡ Me importan el **marcado semántico**, la **accesibilidad** y el **rendimiento**
+- 🌱 Actualmente en **front-end**
+- ⚡ Me importa el **diseño**, la **accesibilidad** y el **rendimiento**
 
 ---
 
